@@ -42,28 +42,15 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
-<p>
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=java,python,go,c&theme=dark)](https://skillicons.dev)
 
-### 🧰 Frameworks & Tools  
-<p>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+### 🧰 Frameworks
+[![Frameworks & Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,kafka,spark,mongodb,pytorch,fastapi,react&theme=light&perline=3)](https://skillicons.dev)
+
+### 🛠️ Tools
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,latex,git&theme=light&perline=3)](https://skillicons.dev)
 
 
----
 
 ## 🚀 Projects
 
