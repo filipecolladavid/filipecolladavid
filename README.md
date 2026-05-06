@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Colla David</h1>
-<h3 align="center">Software Engineer · Distributed Systems · Cloud-Native Architectures · Big Data · Machine Learning</h3>
+<h3 align="center">Software Engineer · Distributed Systems · Concurrent Systems · Cloud-Native Architectures</h3>
 
 <p align="center">
   <a href="mailto:filipecolladavid@gmail.com">
