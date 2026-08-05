@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🏢 Java Developer @ Picnic Technologies
+- 🏢 Software Engineer @ Picnic Technologies
 
 - 🎓 M.Sc. in **Computer Science** @ NOVA University Lisbon  (1st year)
   - 🧑‍💻 **Major:** Distributed Systems  
