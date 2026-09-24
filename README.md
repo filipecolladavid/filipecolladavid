@@ -57,6 +57,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
+| [Trip Management API](https://github.com/filipecolladavid/trip-management-api) | Python · FastAPI· PostgreSQL · SQLModel | API to manage trips related content |
 | [Dijkstra’s SSSP in Spark](https://github.com/filipecolladavid/dijkstra-sssp-spark) | Spark · BigData | Distributed implementation of shortest path |
 | [Distributed KV Store](https://github.com/filipecolladavid/asd25-project02) | Java · Consensus | Fault-tolerant key-value map system |
 | [Multiple Myeloma Survival](https://github.com/filipecolladavid/MultipleMyelomaSurvival) | Python · ML | Survival prediction using clinical data |
